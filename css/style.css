@@ -1,0 +1,27 @@
+* {	font-family: Arial; }
+header { background-color: #2E322E; padding-left: 20px; }
+#logo { height: 100px; margin-top: 15px; }
+ul { margin: 3% 0; padding: 30px 0px; }
+.side { text-align: left; margin: 5px 0px; padding: 0px; font-weight: bold; }
+aside {	margin-left: 20px; padding-right: 20px; }
+aside p { font-weight: bold; color: #2E322E; }
+/*aside : nth-last-child(1) { background-color: red; border: blue 1px solid; }*/
+.iconitos {	width: 15px; height: 15px; margin-right: 10px;}
+a { color: #426D8C; text-decoration: none; }
+li { list-style: none; display: inline-block; margin: 10px;	font-size: 80%; }
+nav li a { color:white; }
+.mini { width: 100px; margin: 20px 0px 0px 0px;	border: 1px solid grey; padding: 2px; position: relative; }
+.nombre { display: block; top:5px;	left: 5px; font-size: .8em; text-align: center;}
+.discos { padding-left: 26px; margin-bottom: 20px; }
+.ultimos { padding: 10px 35px 20px 35px; margin-bottom: 20px; background-color: lightgray; font-weight: bold; }
+.ultimos img { width: 200px; margin: auto; border: 1px solid grey; padding: 2px; }
+.ultimos p { margin: 10px 0px; font-size: 1.5em; color: #2E322E; }
+.ultimos p a { font-size: .5em; }
+.ultimos div>a { display: block; text-align: center; margin-top: 5px; }
+.bordebajo{ border-bottom: 2px solid lightgray; padding: 5px;}
+footer { background-color: #2E322E;	padding: 30px; margin: 0px; }
+footer ul{ margin:0px; }
+footer a { color: #A9ACAF; }
+footer p { color: white; }
+.copyr { color: gray; font-size: .7em; }
+p { font-size: .9em; }
